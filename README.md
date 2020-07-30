@@ -3,80 +3,80 @@ Repositório criado com a finalidade para registrar minha jornada no mundo do De
 
 Neste repositório descrevo a funcionálidade do Markdown e Importância do Readme.
 
-Além disso estou utizando as ferramentas do Git e Github.
+Além disso estou utizando as ferramentas do Git e Github para adicionar os arquivos.
 
 É importante quando publicar projeto descrever os seguintes tópicos no README.md:
 
-Instalação
-Dependências
-Resumo do que é
-Resumo pra que serve
-Vantagens
-Desvantegens
-Exemplos de uso simples
-Exemplos de uso personalizado
+1. Instalação
+1. Dependências
+1. Resumo do que é
+1. Resumo pra que serve
+1. Vantagens
+1. Desvantegens
+1. Exemplos de uso simples
+1. Exemplos de uso personalizado
 
 
-Tutorial Markdown
+# Tutorial Markdown
 
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 
-Italics
+# Italics
 
 *Texto em Itálico*
 
 _Texto em Itálico_
 
-Strong
+# Strong
 
 **Texto em negrito**
 
 __Texto em negrito__
 
-Strikethrough
+# Strikethrough
 
 ~~Texto sublinhado~~
 
-Horizontal Rule
+# Horizontal Rule
 
 - - -
 ___
 
-Blockquote
+# Blockquote
 
 > This is a quote
 
-Links
+# Links
 
 [Link Tutorial Markdown Crash Course from Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
 
-UL
+# UL
 
 * Item 1
 * Item 2
     * Nested Item 1
     * Nested Item 2
 
-OL
+# OL
 
 1. Item 1
 1. Item 2
 1. Item 3
 
-Inline Code Block
+# Inline Code Block
 
 `<p>This is a paragraph</p>`
 
-Images
+# Images
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-Github Markdown
+# Github Markdown
 
-Code Blocks
+# Code Blocks
 
 ```bash
     npm install
@@ -90,13 +90,13 @@ function add (num1, num2) {
 }
 ```
 
-Tables
+# Tables
 
 | Name        | Email                |
 | ----------- | -------------------- |
 | Tchales     | tchalesjrr@gmail.com |
 
-Task Lists
+# Task Lists
 
 * [x] Task 1
 * [ ] Task 2
