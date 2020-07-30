@@ -1,5 +1,5 @@
 # Como-Usar-Markdown
-Repositório criado com a finalidade para registrar minha jornada no mundo do Desenvolvimento de Software.
+Repositório criado com a finalidade de registrar minha jornada no mundo do Desenvolvimento de Software.
 
 Neste repositório descrevo a funcionálidade do Markdown e Importância do Readme.
 
